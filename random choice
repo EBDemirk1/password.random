@@ -1,0 +1,6 @@
+import random
+a = ["q","w","e","r","t","y","u","ı","o","p","ğ","ü","a","s","d","f","g","h","j","k","l","ş","i","z","x","c","v","b","n","m","ö","ç"]
+b = input("şifre gir")
+c = ranndom.choice(a)
+d = b + c
+print(d)
